@@ -4,3 +4,4 @@ morse_code/__pycache__/
 tests/__pycache__/
 venv/
 conftest.py
+.DS_Store
