@@ -5,3 +5,5 @@ tests/__pycache__/
 venv/
 conftest.py
 .DS_Store
+dist/
+morse_code_converter.egg-info
